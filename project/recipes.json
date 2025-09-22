@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Pot Roast",
+    "ingredients": [
+      { "quantity": "1", "name": "beef roast", "type": "Meat" },
+      { "quantity": "1 package", "name": "brown gravy mix", "type": "Baking" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Spaghetti",
+    "ingredients": [
+      { "quantity": "200g", "name": "spaghetti", "type": "Pasta" },
+      { "quantity": "1 jar", "name": "tomato sauce", "type": "Condiment" }
+    ]
+  }
+]
